@@ -1,14 +1,73 @@
-# Hi there, I'm Cadu! 👋
+<div align="center">
 
-Welcome to my GitHub profile. I'm a graphic designer and developer with over 7 years of experience in motion design, matte painting, and high-performance static pieces for social media. Currently, I'm expanding my skills in front-end and back-end development, and working on exciting projects in JavaScript and game development.
+# Cadu Andrade
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: React, Tailwind
-- **Tools**: GitHub, Midjourney, various graphic design software
+Systems • Automation • Game Dev • Linux
 
-## 📫 How to Reach Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arch+Linux+%2B+Hyprland;CLI+Tools+%2B+Automation;Game+Dev+%2B+Systems;I+build+things+that+matter." />
 
-- **Email**: [caduvid@gmail.com](mailto:caduvid@gmail.com)
+</div>
 
-Feel free to check out my repositories and reach out if you have any questions or just want to connect!
+---
 
+## About
+
+Designer for over 10 years.
+
+Currently focused on:
+
+- Systems
+- Automation
+- Game Development
+- CLI Tools
+- Backend
+- Productivity workflows
+- Linux customization
+
+I like building fast, minimal and useful things.
+
+---
+
+## Current Focus
+
+- JavaScript / TypeScript
+- Node.js
+- APIs
+- Game systems
+- Terminal workflows
+- Internal tooling
+- Creative automation
+
+---
+
+## Tech
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Lua
+- Python
+
+### Backend
+
+- Node.js
+- Express
+- REST APIs
+- Google Apps Script
+
+### Game Dev
+
+- LÖVE2D
+- Godot
+- Aseprite
+
+### Environment
+
+```bash
+OS         Arch Linux
+WM         Hyprland
+Editor     Neovim
+Terminal   Kitty
+Shell      zsh
+Multiplexer tmux
